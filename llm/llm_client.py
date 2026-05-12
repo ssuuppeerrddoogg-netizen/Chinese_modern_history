@@ -7,7 +7,7 @@ class LLMClient:
             base_url=base_url
         )
 
-    def chat(self, model_name, question, context=None, system_prompt="你是一名近代史历史学家，请简要回答以下问题："):
+    def chat(self, model_name, question, context=None, system_prompt="请简要回答以下问题："):
         try:
             if context:
                 user_content = f"回答时参考以下内容：\n{context}\n\n问题：{question}"
