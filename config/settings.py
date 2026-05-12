@@ -7,7 +7,7 @@ MODELS = {
     "Qwen3-8B": "qwen3-8b",
     "Qwen3-32B": "qwen3-32b",
     "Qwen3-30B-A3B": "qwen3-30b-a3b",
-    "Qwen3-30B-A3B": "qwen3-235b-a22b",
+    "Qwen3-235B-A22B": "qwen3-235b-a22b",
     "DeepSeek-V3": "deepseek-v3",
     "Kimi-k2.5": "kimi-k2.5"
 }
