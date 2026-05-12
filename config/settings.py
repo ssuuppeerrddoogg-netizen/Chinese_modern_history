@@ -5,5 +5,9 @@ BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1"
 MODELS = {
     "Qwen3-0.6B": "qwen3-0.6b",
     "Qwen3-8B": "qwen3-8b",
-    "DeepSeek-V3": "deepseek-v3"
+    "Qwen3-32B": "qwen3-32b",
+    "Qwen3-30B-A3B": "qwen3-30b-a3b",
+    "Qwen3-30B-A3B": "qwen3-235b-a22b",
+    "DeepSeek-V3": "deepseek-v3",
+    "Kimi-k2.5": "kimi-k2.5"
 }
