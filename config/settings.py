@@ -1,4 +1,4 @@
-API_KEY = "sk-df7569f8a2d54fffba59badb65cbcfad"
+API_KEY = "xxx"
 BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1"
 
 # 可选模型列表
